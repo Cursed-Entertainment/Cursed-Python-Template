@@ -8,17 +8,17 @@ def main():
         "1": {
             "name": "Run 'Script00'",
             "description": "This is Script01",
-            "file_name": "script00.py"
+            "file_name": "scripts/script00.py"
         },
         "2": {
             "name": "Run 'Script01",
             "description": "This is Script01",
-            "file_name": "script01.py"
+            "file_name": "scripts/script01.py"
         },
         "00": {
             "name": "Run 'Install Dependencies'",
             "description": "Install dependencies",
-            "file_name": "install_dependencies.py"
+            "file_name": "scripts/install-dependencies.py"
         },
     }
 

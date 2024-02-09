@@ -24,9 +24,9 @@ def main():
             "file_name": "scripts/script01.py"
         },
         "00": {
-            "name": "Run 'Install Dependencies'",
+            "name": "Run 'install_dependencies.py'",
             "description": "Install dependencies",
-            "file_name": "scripts/install-dependencies.py"
+            "file_name": "scripts/install_dependencies.py"
         },
     }
 

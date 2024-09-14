@@ -13,8 +13,9 @@ To make the setup script executable, run the following command in your terminal:
 ```bash
 chmod +x setup.sh
 ```
-
-    <br>
+<div align="center">
+© Cursed Entertainment 2024
+</div>
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"

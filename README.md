@@ -47,8 +47,6 @@ chmod +x setup.sh
 
 ```
 
-  <br>
-
 <br>
 <div align="center">
 © Cursed Entertainment 202*

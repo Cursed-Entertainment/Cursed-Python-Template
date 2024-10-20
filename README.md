@@ -22,17 +22,24 @@
 
 # Cursed-Python-Template
 
-<br>
-
 ## How to Run:
+
+### Install Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
+Or run install_requirements.bat
+
   <br>
+
+### Run main.py
 
 ```bash
 python main.py
 ```
+Or run run.bat
+
   <br>
 
 To make the setup script executable, run the following command in your terminal:

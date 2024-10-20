@@ -49,9 +49,11 @@ chmod +x setup.sh
 
 ```
 
+<br>
 <div align="center">
 © Cursed Entertainment 202*
 </div>
+<br>
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"

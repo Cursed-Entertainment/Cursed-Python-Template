@@ -38,7 +38,7 @@ Or run install_requirements.bat
 ```bash
 python main.py
 ```
-Or run run.bat
+Or run .\run.bat, .\run.ps1, .\run.sh
 
   <br>
 

@@ -26,23 +26,33 @@
 ```bash
 pip install -r requirements.txt
 ```
+  <br>
+
 ```bash
 python main.py
 ```
+  <br>
+
 To make the setup script executable, run the following command in your terminal:
 
 ```bash
 chmod +x setup.sh
 ```
 
+  <br>
+
+## Requirements:
+
+```bash
+
+```
+
+  <br>
+
 <br>
-
 <div align="center">
-© Cursed Entertainment
+© Cursed Entertainment 202*
 </div>
-
-
-
 <br>
 <div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">

@@ -26,11 +26,17 @@
 
 ### Install Requirements
 
+Using Python directly:
+
 ```bash
 pip install -r requirements.txt
 ```
-Or run .\install_requirements.bat
 
+Or run 
+
+```bash
+.\install_requirements.bat
+```
   <br>
 
 ### Run main.py

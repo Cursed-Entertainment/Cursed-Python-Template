@@ -29,20 +29,38 @@
 ```bash
 pip install -r requirements.txt
 ```
-Or run install_requirements.bat
+Or run .\install_requirements.bat
 
   <br>
 
 ### Run main.py
 
+
+Using Python directly:
+
 ```bash
 python main.py
 ```
-Or run .\run.bat, .\run.ps1, .\run.sh
+
+Using provided scripts:
+
+Windows:
+```bash
+.\run.bat
+```
+or
+```bash
+.\run.ps1
+```
+Unix-like systems (Linux/macOS):
+```bash
+bashCopy./run.sh
+```
 
   <br>
 
-To make the setup script executable, run the following command in your terminal:
+#### Making the Setup Script Executable (Unix-like systems)
+If you're using a Unix-like system and want to make the setup script executable, run the following command in your terminal:
 
 ```bash
 chmod +x setup.sh
